@@ -337,9 +337,6 @@ img{
     margin: 1px 5px;
     flex-grow: 1;
  }
- #cases .case-img img{
-   
- }
  /*Blog*/
  #blog .second-panel, #blog .first-panel{
     flex-basis: 100%;
@@ -442,9 +439,7 @@ img{
     display: flex;
 }
 
-#contact .contact__flex{
 
-}
 #contact .flex-boxes-2{
     width: 100%;
     

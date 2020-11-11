@@ -177,7 +177,7 @@
 @media screen and (max-width:521px) {
     .hero-header-responsive{
     
-        background-image: url('/images/home/showcase.jpg');
+        background-image: url('../images/home/showcase.jpg');
         background-repeat: no-repeat;
         background-position-x: center;
         background-position-y: center;
